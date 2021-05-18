@@ -30,13 +30,10 @@ Installing dependencies with the help of npm:
   "npm i ejs"
 4.install method-oveeride so that we can make "Delete" "Put" requrst from the router folder 
   "npm i method-override"
-  
-5. install marked library so that we can evaluate the markdown taken as a input by the form 
+5.install marked library so that we can evaluate the markdown taken as a input by the form 
    "npm i marked"
-   
 6.install slugify so that while making get req on an article instead of id in the URL
    "npm i slugify"
-
 7.install dompurify and JSDOM to sanitize the markdown coming a an input so that any user can't add malicious code in the input
   "npm i jsdom dompurify"
   
